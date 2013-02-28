@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<fieldset aria-live="assertive" class="error-messages hide">
+    <h3>Please fix the following errors:</h3>
+    <ul></ul>
+</fieldset>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>aria-live</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.basic</scope>
+    <description>Aria form snippet</description>
+</snippet>

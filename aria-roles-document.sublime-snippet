@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<!-- Document Structure roles -->
+<!-- The following roles describe structures that organize content in a page. Document structures are not usually interactive. -->
+<section role="article | columnheader | definition | directory | document | group | heading | img | list | listitem | math | note | presentation | region | row | rowheader | separator | toolbar">
+</section>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>aria-roles-document</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.basic</scope>
+    <description>Aria roles: document snippet</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<fieldset>
+    <label for="input-id" class="auraltext">
+        Label for input
+    </label>
+    <input type="text" name="" id="input-id" value="" title="Proper descriptor for input" class="" placeholder="Original content in label" aria-label="Proper aria label">
+</fieldset>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>aria-textinput</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.basic</scope>
+    <description>Aria form snippet</description>
+</snippet>

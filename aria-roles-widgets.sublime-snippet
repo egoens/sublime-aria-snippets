@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<!-- Widget roles -->
+<!-- The following roles describe structures that organize content in a page. Document structures are not usually interactive. -->
+<section role="alert | alertdialog | button | checkbox | dialog | gridcell | link | log | marquee | menuitem | menuitemcheckbox | menuitemradio | option | progressbar | radio | scrollbar | slider | spinbutton | status | tab | tabpanel | textbox | timer | tooltip | treeitem">
+</section>
+<!-- The following roles act as composite user interface widgets. These roles typically act as containers that manage other, contained widgets. -->
+<section role="combobox | grid | listbox | menu | menubar | radiogroup | tablist | tree | treegrid">
+</section>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>aria-roles-widgets</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.basic</scope>
+    <description>Aria roles: widgets snippet</description>
+</snippet>
