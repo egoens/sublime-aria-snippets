@@ -25,3 +25,10 @@ aria-roles
 aria-textarea
 aria-textinput
 ```
+
+The following snippet will return all the possible aria roles. This is merely a cheat sheet to generate all the role possibilities. Trim down to what you need.
+```
+aria-roles
+```
+
+Running any of the "aria-roles" subsets (ex: "aria-roles-landmarks") will generate the role section seen in the "aria-roles" snippet.
