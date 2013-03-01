@@ -1,7 +1,7 @@
 #Sublime Text 2 Aria HTML Snippets
 
 ## Installation
-Checkout this repo anywhere on your computer. Copy it's contents to the following direction:
+Checkout this repo anywhere on your computer. Copy it's contents to the following directory:
 
 ```
 ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/

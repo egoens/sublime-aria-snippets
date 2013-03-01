@@ -18,9 +18,7 @@
         <p id="describedbyID">Separate tags with commas</p>
         <input id="input-id2" type="text" placeholder="Original text" aria-describedby="describedbyID" />
     </fieldset>
-    <div class="">
-        <button class="" type="submit">Button</button> <a href="#" class="">Cancel</a>
-    </div>
+    <button class="" type="submit">Button</button> <a href="#" class="">Cancel</a>
 </form>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
