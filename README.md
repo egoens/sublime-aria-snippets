@@ -1,4 +1,4 @@
-#Sublime Text 2 Aria HTML Snippets
+#Sublime Text 2 ARIA HTML Snippets
 
 ## Installation
 Checkout this repo anywhere on your computer. Copy it's contents to the following directory:
